@@ -1,13 +1,15 @@
-# Android and Mobile Tooling
+# Android Work
 
-I have worked with Android development and mobile-device tooling alongside my embedded projects.
+Android development and mobile tooling used across embedded, networking and IoT projects.
 
-## Tools and areas
+## Areas
+
 - Android Studio
 - ADB
 - scrcpy
-- APK tooling
-- Android-to-ESP32 communication experiments
-- Firebase-connected mobile/display work
+- APK inspection
+- Android application testing
+- Mobile-to-device communication
+- Firebase-connected applications
 
-This section will contain actual applications and experiments as their source files are organised.
+Android tooling has also been used alongside ESP32 and IoT development for testing mobile interfaces and device interaction.

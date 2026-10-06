@@ -1,15 +1,39 @@
 # Projects
 
-This repository is being organised around the technical work I have actually done.
+A collection of my technical projects across networking, cybersecurity, telecommunications, embedded systems and software.
 
-## Main areas
-1. Networking and infrastructure
-2. Cybersecurity and ethical hacking
-3. SIWES — CSIS, Landmark University
-4. Telecommunications
-5. ESP32 / embedded systems / IoT
-6. Final-year ESP-NOW emergency communication system
-7. HelixMesh
-8. Linux and Android tooling
+## Networking
 
-The goal is to keep original work, code, configurations, diagrams and test notes where available instead of filling the repository with generic project descriptions.
+- Enterprise three-office Cisco Packet Tracer network
+- MikroTik + Starlink + TP-Link CPE wireless network
+- Structured cabling, fiber, PoE and CCTV infrastructure
+- Linux networking
+
+## Cybersecurity
+
+- Web application security testing
+- Reconnaissance
+- Wireless security research
+- HackerOne-style vulnerability research
+- Kali Linux security tooling
+
+## Embedded / IoT
+
+- ESP32 P10 Smart Display
+- Firebase-controlled LED display
+- ESP32 audio integration
+- ESP-NOW emergency communication system
+
+## Telecommunications
+
+- MATLAB/Simulink communications
+- Reed-Solomon coding
+- LiFi experiment
+- Digital communication experiments
+
+## Other
+
+- Android development/tooling
+- HelixMesh offline payment-relay infrastructure concept
+
+Each project is being documented with actual work, source code, configurations and evidence where available.

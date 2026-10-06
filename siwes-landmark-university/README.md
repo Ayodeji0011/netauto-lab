@@ -1,84 +1,58 @@
-# SIWES — CSIS, Landmark University
+# SIWES — Landmark University CSIS
 
-**Author:** OGUNLEYE YEMI SAMSON  
-**Discipline:** Telecommunication Engineering, Federal University of Technology Minna  
-**Placement:** Centre for System and Information Services (CSIS), Landmark University, Omu-Aran, Kwara State  
-**Department:** Networking Department  
-**Duration:** Six months
+Six-month Industrial Training experience at the Centre for Systems and Information Services (CSIS), Landmark University, Omu-Aran, in the Networking Department.
 
-## Overview
+## Programme
 
-This section documents the practical industrial experience described in my original SIWES report. The work covered networking, Cisco networking and penetration-testing training, CCTV infrastructure, structured cabling, fiber optics and general IT support.
+Telecommunications Engineering  
+Federal University of Technology, Minna
 
 ## Networking
 
-- LAN configuration in offices, laboratories and administrative blocks
-- WLAN/access-point deployment and troubleshooting
-- IP addressing and DHCP
-- Subnetting and network segmentation
-- VLAN configuration
-- Network troubleshooting involving IP conflicts, DNS and faulty switching/cabling
-- Bandwidth monitoring and access-point optimization
-- Patch-panel organization and network re-cabling
+Practical exposure included:
 
-### Documented laboratory example
-
-A computer laboratory with more than 100 systems was reorganized from a single broadcast domain into segmented networks. The documented segmentation covered the computer laboratory, CBT network (without internet access for e-examination) and LMU Metro Wi-Fi for student connectivity.
-
-## Cisco Networking & Security Training
-
-The report documents Cisco/CCNA-oriented training and simulated practical work using Cisco Packet Tracer, including:
-
-- Router and switch CLI configuration
-- RIP and OSPF dynamic routing
+- LAN/WLAN configuration and troubleshooting
+- Cisco networking
+- IP addressing and subnetting
+- DHCP
 - VLANs
+- RIP
+- OSPF
 - ACLs
+- Cisco Packet Tracer
 - Wireshark packet analysis
-- Basic penetration-testing concepts and vulnerability identification in simulated environments
 
-One documented Packet Tracer exercise used three VLANs for administrative staff, students and guests, with OSPF used for inter-VLAN routing and Wireshark used to inspect simulated traffic.
+## Physical Infrastructure
 
-## CCTV & Network Infrastructure
-
-The training included IP CCTV installation and integration:
-
-- Camera mounting and positioning
-- Fiber links for long-distance camera connections
-- Fiber-to-Ethernet media conversion
-- DVR/NVR configuration
-- LAN integration and remote monitoring
-- PoE for applicable Ethernet-connected cameras
-- Solar-powered roadside CCTV deployments
-- Video transmission testing and storage planning
-
-## Structured Cabling & Fiber
-
-- Cat5e/Cat6 Ethernet cabling
-- RJ45 termination using TIA/EIA-568 practices
-- Patch panels, racks and cable management
-- Cable continuity/performance testing
-- Fiber optic installation and basic splicing exposure
-- SC/LC connector concepts
+- Cat5e/Cat6 structured cabling
+- RJ45 termination
+- Patch panels
+- Network racks
+- Cable testing
+- Fiber optic links
 - Media converters
-- Hierarchical-star structured cabling
-- Cable labeling and documentation
+- PoE
 
-## General IT Support
+## CCTV
 
-The report also documents:
+Worked around CCTV installation and network integration, including camera installation, fiber connectivity, PoE and network infrastructure.
 
-- Windows and Linux installation/configuration
-- Desktop/laptop and peripheral troubleshooting
-- Printer/scanner configuration
-- LMS/email support
-- User-account and authentication support
-- Antivirus and firewall configuration
-- System updates and diagnostics
-- Online clearance support
-- Python automation for mapping staff IDs to corresponding photographs for portal uploads
+## IT Support
 
-## Evidence Classification
+Additional exposure included:
 
-**Academic/industrial training:** The material in this section is based on the user's actual SIWES report and should not be presented as employment beyond the documented placement.
+- Linux and Windows systems
+- Firewall and antivirus configuration
+- Server/ICT infrastructure
+- General technical support
+- Network troubleshooting
 
-**Source:** `SIWES.odt` (original user-provided report). Personal identifiers from the report are intentionally omitted from this public repository section.
+## Python Automation
+
+Worked on Python-based automation for staff ID/photo upload processes.
+
+## Security
+
+Received practical penetration-testing and cybersecurity training and worked with network/security analysis tools in controlled learning environments.
+
+This section is based on my actual SIWES experience and report.

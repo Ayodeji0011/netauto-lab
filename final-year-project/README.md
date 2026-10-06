@@ -1,32 +1,49 @@
-# Decentralized Multi-Hop Emergency Communication System
+# Final-Year Project
 
-Title: Design and Implementation of a Decentralized Multi-Hop Emergency Communication System for Smart Campus Safety Using ESP-NOW Protocol.
+## Design and Implementation of a Decentralized Multi-Hop Emergency Communication System for Smart Campus Safety Using ESP-NOW Protocol
 
-This is my final-year Telecommunications Engineering project.
+Final-year Telecommunication Engineering project at the Federal University of Technology, Minna.
 
-## Main idea
+## Objective
 
-The system uses ESP32 nodes to exchange emergency information without depending entirely on conventional infrastructure.
+The project investigates a decentralized emergency communication system capable of transferring emergency messages between ESP32 nodes without depending entirely on conventional internet infrastructure.
 
-## Main components
-- ESP32 nodes
-- ESP-NOW
-- GPS
-- DS3231
+## System
+
+The prototype uses multiple ESP32 nodes operating as:
+
+- Emergency nodes
+- Relay nodes
+- Security nodes
+
+Messages can be forwarded through intermediate nodes to extend communication coverage.
+
+## Hardware
+
+- ESP32-32D
+- NEO-6M GPS
+- DS3231 RTC
 - Keypad
-- OLED
-- Emergency node
-- Relay node
-- Security node
+- OLED display
 
-## Communication work
-- Multi-node communication
-- Packet forwarding
-- Multi-hop relay
-- GPS position data
-- ACK-based communication
-- Node identification
+## Communication
+
+ESP-NOW is used for direct node-to-node wireless communication.
+
+The system includes:
+
+- Packet identification
+- Node addressing
+- Message forwarding
+- Acknowledgement handling
+- GPS information
+- Multi-hop routing logic
 - Local web interface
-- Emergency message handling
 
-The report discusses secure communication and CCMP. Any code published here will be labelled according to what is actually implemented.
+## Supervisor
+
+Engr Umar Abdullahi
+
+## Status
+
+Academic prototype and research project.
