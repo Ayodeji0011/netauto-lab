@@ -1,44 +1,23 @@
 # HelixMesh
 
-An offline-first payment relay infrastructure concept designed for areas with unreliable conventional internet connectivity.
+## Offline-First Payment Relay Infrastructure
 
-## Concept
-
-Merchant devices communicate locally with nearby relay nodes. Transaction instructions can then travel through a LoRa mesh to a gateway with internet connectivity.
-
-The gateway can synchronize transactions through an available backhaul such as Starlink.
+HelixMesh is a proposed resilient communication architecture for payment environments where conventional connectivity is unreliable.
 
 ## Architecture
+Phone / Merchant -> BLE -> Merchant Node -> LoRa Mesh -> Gateway -> Starlink / Internet -> Payment Infrastructure
 
-Merchant Phone
-      |
-     BLE
-      |
-LoRa Relay Mesh
-      |
-HelixMesh Gateway
-      |
-Starlink / Internet
-      |
-Payment Infrastructure
+## Core Principle
+HelixMesh does not perform payment settlement over LoRa. The mesh transports digitally protected transaction instructions toward an internet-connected gateway, which communicates with regulated payment infrastructure.
 
-## Technology Areas
-
-- ESP32
-- LoRa
+## Components
+- ESP32-class merchant nodes
 - BLE
-- Starlink
-- Mesh networking
-- Offline-first systems
-- Payment infrastructure
-- API integration
-
-## Important Design Principle
-
-HelixMesh is intended as a communication and transaction-relay infrastructure.
-
-The LoRa mesh does not directly move or settle money. Transaction instructions are transported through the mesh and ultimately synchronized with regulated payment infrastructure.
+- LoRa relay nodes
+- Store-and-forward mesh
+- Gateway
+- Starlink/internet backhaul
+- Payment integration
 
 ## Status
-
-Concept, architecture and prototype design work.
+Architecture/prototype concept, not a deployed production payment network.

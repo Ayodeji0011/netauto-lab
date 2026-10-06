@@ -1,16 +1,12 @@
 # Digital Communications
 
-Practical telecommunications and digital communication experiments.
+Practical telecommunications and communication-system experiments.
 
-## Areas
-
-- Binary data generation
-- Channel coding
+## Topics
+- Digital signalling
+- Error-control coding
 - Reed-Solomon coding
-- Digital transmission
-- Signal timing
-- Error handling
-- MATLAB/Simulink modelling
-- Embedded communication experiments
-
-This section collects telecommunications work that spans simulation and hardware experimentation.
+- MATLAB/Simulink
+- Binary source generation
+- LiFi / optical wireless communication
+- Embedded communication protocols

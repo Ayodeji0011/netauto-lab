@@ -1,39 +1,24 @@
-# Projects
+# Engineering Projects
 
-A collection of my technical projects across networking, cybersecurity, telecommunications, embedded systems and software.
+Practical engineering work across networking, cybersecurity, telecommunications, embedded systems, IoT, Android and systems design.
 
 ## Networking
-
-- Enterprise three-office Cisco Packet Tracer network
-- MikroTik + Starlink + TP-Link CPE wireless network
-- Structured cabling, fiber, PoE and CCTV infrastructure
-- Linux networking
+Cisco Packet Tracer, VLANs, OSPF, RIP, ACLs, Wireshark, wireless networking, MikroTik, Starlink, TP-Link CPE, structured cabling, CCTV networking and Linux networking.
 
 ## Cybersecurity
-
-- Web application security testing
-- Reconnaissance
-- Wireless security research
-- HackerOne-style vulnerability research
-- Kali Linux security tooling
+Web security testing, XSS, IDOR, LFI, open redirects, reconnaissance, Nmap, FFUF, Burp Suite, Wireshark, vulnerability labs and bug-bounty learning.
 
 ## Embedded / IoT
-
-- ESP32 P10 Smart Display
-- Firebase-controlled LED display
-- ESP32 audio integration
-- ESP-NOW emergency communication system
+ESP32, P10 displays, Firebase LED display, ESP32 audio, TTS, STT/STS, ESP-NOW and multi-hop emergency communication.
 
 ## Telecommunications
+LiFi, digital communications, Reed-Solomon coding, MATLAB/Simulink and wireless communication experiments.
 
-- MATLAB/Simulink communications
-- Reed-Solomon coding
-- LiFi experiment
-- Digital communication experiments
+## Android
+Android development, ADB, scrcpy, APK analysis, Android/ESP32 integration and Firebase applications.
 
-## Other
+## Independent Systems
+HelixMesh offline-first payment relay architecture.
 
-- Android development/tooling
-- HelixMesh offline payment-relay infrastructure concept
-
-Each project is being documented with actual work, source code, configurations and evidence where available.
+## Academic
+SIWES at Landmark University CSIS and FUTMinna Telecommunication Engineering final-year project.

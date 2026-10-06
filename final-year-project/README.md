@@ -1,49 +1,30 @@
-# Final-Year Project
+# Decentralized Multi-Hop Emergency Communication System
 
-## Design and Implementation of a Decentralized Multi-Hop Emergency Communication System for Smart Campus Safety Using ESP-NOW Protocol
+**Design and Implementation of a Decentralized Multi-Hop Emergency Communication System for Smart Campus Safety Using ESP-NOW Protocol**
 
-Final-year Telecommunication Engineering project at the Federal University of Technology, Minna.
+FUTMinna — Telecommunication Engineering
 
-## Objective
+Supervisor: Engr. Umar Abdullahi
 
-The project investigates a decentralized emergency communication system capable of transferring emergency messages between ESP32 nodes without depending entirely on conventional internet infrastructure.
+## Overview
+ESP32-based decentralized emergency communication using ESP-NOW, GPS, OLED, keypad, RTC and relay nodes.
 
-## System
+## Architecture
+Emergency Node -> ESP-NOW -> Relay Node(s) -> Base Receiver -> OLED / LEDs / Buzzer
 
-The prototype uses multiple ESP32 nodes operating as:
-
-- Emergency nodes
-- Relay nodes
-- Security nodes
-
-Messages can be forwarded through intermediate nodes to extend communication coverage.
-
-## Hardware
-
-- ESP32-32D
+## Technologies
+- ESP32
+- ESP-NOW
 - NEO-6M GPS
 - DS3231 RTC
-- Keypad
-- OLED display
+- OLED
+- Matrix keypad
+- Multi-hop wireless communication
+- Embedded C/C++
+- Arduino IDE
 
-## Communication
+## Firmware
+See `firmware/esp-now/nodes/` for sender, relay and receiver implementations.
 
-ESP-NOW is used for direct node-to-node wireless communication.
-
-The system includes:
-
-- Packet identification
-- Node addressing
-- Message forwarding
-- Acknowledgement handling
-- GPS information
-- Multi-hop routing logic
-- Local web interface
-
-## Supervisor
-
-Engr Umar Abdullahi
-
-## Status
-
-Academic prototype and research project.
+## Security Note
+The academic design discusses CCMP, while some prototype firmware uses XOR masking for demonstration. The prototype should not be described as production-grade cryptography or as a completed CCMP implementation.

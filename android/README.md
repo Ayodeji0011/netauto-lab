@@ -1,15 +1,17 @@
-# Android Work
+# Android Engineering
 
-Android development and mobile tooling used across embedded, networking and IoT projects.
+Android development and security work supporting embedded and networking projects.
 
 ## Areas
-
 - Android Studio
 - ADB
 - scrcpy
-- APK inspection
-- Android application testing
-- Mobile-to-device communication
+- APK analysis
+- Android-to-ESP32 communication
 - Firebase-connected applications
+- Embedded-device control interfaces
 
-Android tooling has also been used alongside ESP32 and IoT development for testing mobile interfaces and device interaction.
+## Embedded Integration
+Android interfaces were explored for ESP32 systems, P10 displays, Firebase control and wireless device testing.
+
+Public repository content excludes third-party APKs, credentials and private application data.

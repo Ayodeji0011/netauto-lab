@@ -1,16 +1,17 @@
-# MATLAB Simulink Communications Work
+# Digital Communications — Simulink
 
-Telecommunications simulation work using MATLAB/Simulink.
+MATLAB/Simulink communication-system modelling work.
 
-## Areas
+## Random Integer Generator
+- M-ary number / Set size: 2
+- Samples per frame: 1
+- Sample time: 1
+- Output data type: double
 
-- Digital communication systems
-- Random binary/integer generation
-- Channel coding
-- Reed-Solomon coding
-- Encoder/decoder configuration
-- Signal processing blocks
-- Simulation debugging
-- Block parameter configuration
+The source produces binary symbols 0 and 1.
 
-The work involved building communication-system models and resolving signal dimension and block-configuration issues during simulation.
+## Reed-Solomon
+The binary source was connected to a Reed-Solomon encoding stage as part of the digital communication model.
+
+## Topics
+Digital signalling, binary source generation, frame processing, error-control coding, Reed-Solomon coding and Simulink.
