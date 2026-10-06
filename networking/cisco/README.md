@@ -1,21 +1,24 @@
 # Cisco Networking
 
-This section covers the Cisco networking work I have done mainly through training, SIWES and Packet Tracer labs.
+Practical Cisco networking and simulation work.
 
-## Topics
+## Technologies
 
-- Router and switch configuration
-- IP addressing and subnetting
+- VLAN
 - DHCP
-- VLANs
 - RIP
 - OSPF
-- ACLs
-- Basic LAN troubleshooting
+- ACL
+- IPv4 addressing
+- Subnetting
+- Inter-VLAN routing
 - Cisco Packet Tracer
 
-## Practical work
+## Projects
 
-During SIWES at CSIS, Landmark University, I worked around Cisco networking and network troubleshooting. Packet Tracer was also used for configuration and testing.
+See the Packet Tracer files in:
 
-I will keep adding the actual lab topologies and configurations where I have the original files.
+`packet-tracer/`
+
+The simulations document practical network topology,
+configuration and troubleshooting work.

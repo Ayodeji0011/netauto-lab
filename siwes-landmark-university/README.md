@@ -1,58 +1,84 @@
-# SIWES — Landmark University CSIS
+# SIWES — Centre for Systems and Information Services (CSIS), Landmark University
 
-Six-month Industrial Training experience at the Centre for Systems and Information Services (CSIS), Landmark University, Omu-Aran, in the Networking Department.
+**Student:** Ogunleye Yemi Samson  
+**Programme:** Telecommunication Engineering  
+**Institution:** Federal University of Technology, Minna  
+**Department:** Networking Department, CSIS, Landmark University  
+**Duration:** Six Months
 
-## Programme
+## Overview
 
-Telecommunications Engineering  
-Federal University of Technology, Minna
+My SIWES placement provided practical experience in networking,
+systems administration, cybersecurity, ICT infrastructure and
+technical support.
 
 ## Networking
 
-Practical exposure included:
-
-- LAN/WLAN configuration and troubleshooting
-- Cisco networking
+- LAN and WLAN configuration
 - IP addressing and subnetting
 - DHCP
-- VLANs
+- VLAN configuration
+- Routing protocols
 - RIP
 - OSPF
-- ACLs
+- Access Control Lists (ACLs)
+- Cisco networking equipment
+- TP-Link networking equipment
 - Cisco Packet Tracer
-- Wireshark packet analysis
+- Network troubleshooting
+- Wireshark traffic analysis
 
-## Physical Infrastructure
+## Cybersecurity
+
+- Penetration-testing training
+- Network/security analysis
+- Traffic inspection
+- Security troubleshooting
+- Firewall and antivirus concepts
+- Linux and Windows security administration
+
+## Structured Cabling & Infrastructure
 
 - Cat5e/Cat6 structured cabling
 - RJ45 termination
+- TIA/EIA-568 wiring standards
 - Patch panels
 - Network racks
 - Cable testing
-- Fiber optic links
+- Fiber-optic cabling
 - Media converters
-- PoE
+- PoE infrastructure
 
-## CCTV
+## CCTV & Physical Security
 
-Worked around CCTV installation and network integration, including camera installation, fiber connectivity, PoE and network infrastructure.
+- CCTV installation
+- IP camera networking
+- CCTV network integration
+- PoE-based camera deployment
+- Solar-powered CCTV systems
 
-## IT Support
+## Systems & IT Support
 
-Additional exposure included:
+- Windows/Linux administration
+- Server and ICT infrastructure support
+- Hardware/software troubleshooting
+- User support
+- Network fault isolation
 
-- Linux and Windows systems
-- Firewall and antivirus configuration
-- Server/ICT infrastructure
-- General technical support
-- Network troubleshooting
+## Automation
 
-## Python Automation
+Python-based automation was used to support repetitive ICT
+operations, including staff identification/photo-related workflows.
 
-Worked on Python-based automation for staff ID/photo upload processes.
+## Practical Network Design
 
-## Security
+A small-office network was designed and simulated in Cisco Packet
+Tracer with separate VLANs for administrative staff, students and
+guest users. Routing and traffic behavior were tested using OSPF and
+Wireshark.
 
-Received practical penetration-testing and cybersecurity training and worked with network/security analysis tools in controlled learning environments.
+## Skills Developed
 
-This section is based on my actual SIWES experience and report.
+Networking • Routing • Switching • VLANs • Wireshark • Cisco Packet
+Tracer • Structured Cabling • CCTV • Fiber Optics • PoE • Linux •
+Windows • Cybersecurity • Python Automation • Technical Support

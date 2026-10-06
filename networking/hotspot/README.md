@@ -1,15 +1,23 @@
-# Hotspot and Captive Portal
+# Hotspot & Captive Portal Infrastructure
 
-This section covers my MikroTik hotspot work.
+Practical experience deploying hotspot infrastructure using MikroTik
+and TP-Link wireless equipment.
 
-## Work covered
-- MikroTik hotspot setup
+## Architecture
+
+Internet/WAN → MikroTik Router → Network Switch → Wireless Access
+Points → Clients
+
+## Experience
+
+- Bridge configuration
+- DHCP
+- Address pools
+- Hotspot server
 - Captive portal
 - User authentication
 - Voucher-based access
-- IP pools and DHCP
-- Bridge-based network setup
-- Starlink upstream connectivity
-- TP-Link CPE access points
+- Wireless AP deployment
+- Troubleshooting client/AP connectivity
 
-The actual configuration will be added after sensitive credentials and private network details are removed.
+Private credentials and live deployment configurations are excluded.

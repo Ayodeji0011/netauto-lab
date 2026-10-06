@@ -1,29 +1,39 @@
 # Networking
 
-This folder is for the networking work I have done in school, SIWES, personal labs and deployments.
+Hands-on networking experience from academic projects, SIWES,
+laboratory work and personal infrastructure deployments.
 
-## Work covered
+## Core Skills
 
-- Cisco router and switch configuration
-- IP addressing and subnetting
+- LAN/WLAN
+- IPv4 addressing
+- Subnetting
 - DHCP
 - VLANs
+- Inter-VLAN routing
 - RIP
 - OSPF
 - ACLs
 - Cisco Packet Tracer
 - Wireshark
-- LAN/WLAN troubleshooting
 - MikroTik
-- Starlink + MikroTik
-- TP-Link CPE wireless links
-- Hotspot and captive portal work
-- Cat5e/Cat6 structured cabling
-- RJ45 termination
-- Patch panels and racks
-- Fiber links and media converters
-- CCTV and PoE networking
+- TP-Link
+- Wireless networking
+- Structured cabling
+- Fiber optics
+- Media converters
+- PoE
+- CCTV networking
+- Hotspot/captive portal infrastructure
 - Linux networking
-- Python automation
 
-Some of these are lab/simulation exercises and some are practical hardware/network work. I will add the actual configurations, screenshots and notes as I organise them.
+## Network Design
+
+Experience designing and troubleshooting networks from the physical
+layer through routing and application-level connectivity.
+
+## Infrastructure
+
+Practical exposure includes Cisco/TP-Link networks, MikroTik-based
+hotspot infrastructure, wireless links, CCTV networks, fiber
+connections and structured Ethernet cabling.

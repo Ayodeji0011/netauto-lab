@@ -1,12 +1,16 @@
 # Wireshark
 
-I used Wireshark during networking training and troubleshooting.
+Hands-on packet-analysis experience using Wireshark.
 
-## What I worked with
+## Activities
 
-- Capturing network traffic
-- Looking at packets and protocols
-- Following traffic during troubleshooting
-- Using packet captures to understand what was happening on a network
+- Packet capture analysis
+- Protocol identification
+- WLAN traffic inspection
+- TCP/IP analysis
+- Routing/data-flow analysis
+- Filtering and packet inspection
+- Troubleshooting network behavior
 
-Packet captures and screenshots will be added when the original lab material is available.
+Raw captures containing third-party identifiers are not published
+without sanitization.
