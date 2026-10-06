@@ -1,18 +1,33 @@
-# Cybersecurity
+# Cybersecurity & Ethical Hacking
 
-My cybersecurity work covers practical security learning, authorized testing, reconnaissance, Linux security tooling and web application testing.
+Hands-on cybersecurity work covering web application security,
+reconnaissance, vulnerability testing, Linux security tooling and
+responsible bug-bounty practice.
 
-## Areas
+## Core Areas
 
-- Network security
-- Web application security
+- Web Application Security
 - Reconnaissance
-- Vulnerability discovery
-- Wireless security
-- Packet analysis
-- Linux/Kali security tooling
-- Responsible vulnerability research
+- XSS
+- IDOR / Broken Access Control
+- LFI
+- Open Redirects
+- Network/Service Enumeration
+- Burp Suite
+- Nmap
+- FFUF
+- Recon-ng
+- Wireshark
+- Bash/Python Security Automation
+- Vulnerable Web Application Labs
+- Responsible Disclosure
 
-Most work in this section consists of labs, training, personal testing and authorized security research.
+## Practical Approach
 
-Credentials, private targets and sensitive information are not included.
+My workflow combines automated discovery with manual verification:
+
+**Recon → Enumeration → Testing → Verification → Evidence →
+Impact Assessment → Remediation**
+
+All public examples are sanitized and limited to authorized testing
+and intentionally vulnerable laboratory environments.

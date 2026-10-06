@@ -1,20 +1,19 @@
-# HackerOne Security Research
+# HackerOne / Bug Bounty Practice
 
-This section documents my experience learning and practising responsible vulnerability research through HackerOne-style testing.
+Hands-on exposure to responsible vulnerability research and bug
+bounty workflows.
 
-## Work
+## Activities
 
-- Target reconnaissance
-- Web application enumeration
-- HTTP analysis
+- Reconnaissance
+- Attack-surface mapping
 - Endpoint discovery
-- Parameter testing
-- Vulnerability investigation
-- Manual validation
-- Report-oriented security research
+- Parameter analysis
+- Web vulnerability testing
+- Manual verification
+- Evidence gathering
+- Responsible disclosure workflow
 
-The work is kept within authorized vulnerability disclosure programs and controlled testing environments.
-
-Only findings that can be verified and documented will be added as individual case studies.
-
-No private program information, credentials or sensitive target data is included.
+Only findings that can be accurately substantiated are documented.
+No private program data, credentials, tokens or third-party target
+datasets are published here.
