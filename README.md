@@ -1,39 +1,60 @@
 # Network Engineering Lab
 
-Practical networking, infrastructure, automation, and troubleshooting work by OGUNLEYE YEMI SAMSON (Ayodeji0011), Telecommunications Engineering.
+This is where I am putting the networking work I have done while learning and building things.
 
-## Focus
+I am a Telecommunications Engineering student/graduate and most of this work came from school, SIWES, personal labs and projects. Some things here are simulations, some are hardware work and some are still being tested.
 
-- LAN/WLAN configuration and troubleshooting
-- IPv4 addressing, subnetting and DHCP
-- VLANs and network segmentation
-- RIP, OSPF and ACLs
-- Cisco IOS and Packet Tracer
-- Wireshark packet analysis
-- MikroTik routing, bridging and hotspot infrastructure
-- Starlink backhaul and TP-Link CPE wireless links
-- Network automation with Python
-- Structured Ethernet cabling and fiber links
-- Network-integrated CCTV and PoE infrastructure
+## What I have worked on
+
+- Cisco Packet Tracer
+- Router and switch configuration
+- IP addressing and subnetting
+- DHCP
+- VLANs
+- RIP and OSPF
+- ACLs
+- Wireshark
+- LAN/WLAN troubleshooting
+- MikroTik
+- Starlink + MikroTik network setup
+- TP-Link CPE wireless links
+- Hotspot/captive portal setup
+- Cat5e/Cat6 cabling and RJ45 termination
+- Patch panels and racks
+- Fiber links and media converters
+- CCTV and PoE networking
 - Linux networking
+- Python automation
 
-## SIWES Foundation
+## SIWES
 
-My six-month SIWES placement was at the Centre for Systems and Information Services (CSIS), Landmark University, Omu-Aran, under the Networking Department.
+My SIWES was at the Centre for Systems and Information Services (CSIS), Landmark University, Omu-Aran, in the Networking Department.
 
-The documented work includes LAN/WLAN troubleshooting, DHCP, subnetting, VLANs, Cisco Packet Tracer, RIP, OSPF, ACLs, Wireshark, CCTV networking, fiber/media converters, PoE, Cat5e/Cat6 cabling, patch panels, racks, cable testing, solar-powered CCTV, IT support and Python automation.
+During the training I worked around LAN/WLAN setup and troubleshooting, Cisco networking, Packet Tracer, Wireshark, CCTV installation and networking, fiber/media converters, PoE, structured cabling, network support and other ICT infrastructure.
 
-## Repository Structure
+The SIWES section in this repository is based on my actual SIWES report.
 
-- cisco-packet-tracer/ — switching, routing and ACL labs
-- mikrotik/ — routing, bridging, Starlink and hotspot work
-- wireless/ — TP-Link CPE work
-- wireshark/ — packet-analysis notes
-- python/ — network automation
-- linux/ — Linux networking
-- infrastructure/ — cabling, fiber and CCTV
-- docs/ — topologies and troubleshooting records
+## Other work
 
-Each lab will document the requirement, topology, configuration, verification and troubleshooting. Simulated or academic work will be clearly labelled.
+This repository will also contain things from my own labs and projects as I organise them properly:
 
-**Author:** OGUNLEYE YEMI SAMSON
+- MikroTik / Starlink networking
+- Wireless networking
+- Linux and security work
+- Network automation
+- Telecommunications experiments
+- Embedded/IoT networking where it overlaps with networking
+
+I will add the actual configurations, code, screenshots, diagrams and notes where I have them instead of filling the repository with generic descriptions.
+
+## Important
+
+Not everything here is a production deployment. Where something is a simulation, training exercise, experiment or unfinished project, I will say so.
+
+Credentials, passwords, API keys and other private information are not included.
+
+## About me
+
+**OGUNLEYE YEMI SAMSON**  
+Telecommunications Engineering  
+GitHub: [Ayodeji0011](https://github.com/Ayodeji0011)
