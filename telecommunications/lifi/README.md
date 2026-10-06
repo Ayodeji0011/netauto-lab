@@ -1,9 +1,21 @@
-# LiFi Experiment
+# LiFi Communication Experiment
 
-This is a hardware communication experiment using visible light.
+A visible-light communication experiment using an LED transmitter and receiver.
 
-The transmitter sends digital data through an LED and the receiver reconstructs the data.
+## Hardware
 
-The project involved digital bit timing, LED transmission, receiver detection, LCD output and timing adjustments.
+- LED transmitter
+- Light-based receiver
+- Arduino
+- LCD display
 
-The code and circuit notes will be added from the original experiment.
+## Work
+
+- Digital bit transmission
+- LED modulation
+- Timing control
+- Serial data reconstruction
+- Received-data display
+- Communication timing troubleshooting
+
+The experiment focused on transmitting digital information through light and improving reliable bit detection.

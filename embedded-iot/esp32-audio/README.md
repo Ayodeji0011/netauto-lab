@@ -1,12 +1,23 @@
-# ESP32 Audio
+# ESP32 Audio and Speech Integration
 
-The smart display project also includes audio hardware.
+Audio experiments integrating an ESP32 display system with external audio hardware.
 
-## Hardware used
-- DFPlayer Mini
-- PAM amplifier
+## Hardware
+
 - ESP32
+- PAM audio amplifier
+- Speaker
+- DFPlayer audio module
+- 5 V power supply
+- P10 LED display
 
-The DFPlayer work used stored audio clips while the broader smart-display goal is to support arbitrary browser/ESP32 audio input rather than only prerecorded messages.
+## Work
 
-Credentials and private configuration are excluded.
+- DFPlayer integration
+- Audio playback control
+- Volume control
+- ESP32 serial communication with audio hardware
+- Display/audio coordination
+- TTS/STT interface experiments
+
+The work evolved from prerecorded audio playback toward arbitrary text and speech interaction through the ESP32 web interface.

@@ -1,7 +1,37 @@
-# Firebase LED Display Control
+# Firebase Controlled LED Display
 
-I experimented with controlling the ESP32 LED display through Firebase Realtime Database.
+An ESP32 LED display project using Firebase Realtime Database for remote control and display configuration.
 
-The project used a device structure around led-001 and included display properties such as text, effect, font, font size, frame and color.
+## Architecture
 
-Private Firebase credentials are not stored in the repository.
+Mobile/Web Interface
+        |
+     Firebase
+        |
+   Realtime Database
+        |
+       ESP32
+        |
+    P10 Display
+
+## Features
+
+The system was designed to receive display settings remotely, including:
+
+- Text
+- Display effects
+- Font selection
+- Font size
+- Frame settings
+- Display colour
+- Device-specific settings
+
+## Device
+
+A device-node structure was used so individual display boards could retrieve their assigned configuration.
+
+## Development
+
+The ESP32 firmware was developed using Arduino IDE.
+
+Private Firebase credentials and API secrets are intentionally excluded from this repository.

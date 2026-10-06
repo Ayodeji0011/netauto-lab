@@ -1,13 +1,16 @@
-# MATLAB / Simulink Communications Work
+# MATLAB Simulink Communications Work
 
-I have worked with communication-system simulations in MATLAB/Simulink.
+Telecommunications simulation work using MATLAB/Simulink.
 
-One exercise involved a binary Random Integer Generator followed by an RS Encoder.
+## Areas
 
-## Initial binary source setup
-- M-ary number / Set size: 2
-- Samples per frame: 1
-- Sample time: 1 where required
-- Output type: double
+- Digital communication systems
+- Random binary/integer generation
+- Channel coding
+- Reed-Solomon coding
+- Encoder/decoder configuration
+- Signal processing blocks
+- Simulation debugging
+- Block parameter configuration
 
-The work also involved debugging dimension mismatches between blocks and checking how the encoder expected its input.
+The work involved building communication-system models and resolving signal dimension and block-configuration issues during simulation.

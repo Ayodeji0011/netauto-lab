@@ -1,13 +1,16 @@
 # Digital Communications
 
-This section contains communications-system experiments and simulations.
+Practical telecommunications and digital communication experiments.
 
-## Work covered
-- Digital communication simulations
-- Random data generation
-- Reed-Solomon encoding
-- Simulink block configuration
-- Dimension and signal-flow debugging
-- Basic communication-system experiments
+## Areas
 
-Simulation files and screenshots will be added where available.
+- Binary data generation
+- Channel coding
+- Reed-Solomon coding
+- Digital transmission
+- Signal timing
+- Error handling
+- MATLAB/Simulink modelling
+- Embedded communication experiments
+
+This section collects telecommunications work that spans simulation and hardware experimentation.
