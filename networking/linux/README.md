@@ -1,13 +1,32 @@
 # Linux Networking
 
-Linux is part of my networking and security work.
+Practical Linux networking and system administration work using Kali Linux and other Linux environments.
 
-## Areas
+## Areas Covered
+
 - Network interface configuration
-- IP addressing and routing
-- Connectivity testing
-- Network troubleshooting
-- Basic service and process management
-- Linux tools used during networking and security labs
+- IP addressing
+- Routing and connectivity testing
+- DNS troubleshooting
+- Network diagnostics
+- SSH
+- Command-line networking tools
+- Process and service management
+- Package management
+- File and storage management
 
-This section will contain commands, notes and lab results that are safe to publish.
+## Tools
+
+- ip
+- ping
+- traceroute
+- ss
+- netstat
+- nslookup
+- dig
+- curl
+- wget
+- ssh
+- tcpdump
+
+Linux has also been used as the main environment for networking, cybersecurity, embedded development and technical troubleshooting.

@@ -1,5 +1,20 @@
-# HackerOne Testing
+# HackerOne Security Research
 
-I have experimented with vulnerability research and responsible disclosure workflows through HackerOne.
+This section documents my experience learning and practising responsible vulnerability research through HackerOne-style testing.
 
-This section will contain only findings and testing notes that I can verify from my original work. No target credentials, private information or unsupported claims are included.
+## Work
+
+- Target reconnaissance
+- Web application enumeration
+- HTTP analysis
+- Endpoint discovery
+- Parameter testing
+- Vulnerability investigation
+- Manual validation
+- Report-oriented security research
+
+The work is kept within authorized vulnerability disclosure programs and controlled testing environments.
+
+Only findings that can be verified and documented will be added as individual case studies.
+
+No private program information, credentials or sensitive target data is included.

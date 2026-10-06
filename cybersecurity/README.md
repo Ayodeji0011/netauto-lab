@@ -1,22 +1,18 @@
 # Cybersecurity
 
-This folder contains my cybersecurity and ethical hacking practice.
+My cybersecurity work covers practical security learning, authorized testing, reconnaissance, Linux security tooling and web application testing.
 
-## Areas I have worked on
-- Kali Linux
-- Web application testing
-- Reconnaissance and enumeration
-- Burp Suite
-- OWASP ZAP
-- Nuclei
-- Amass
-- Naabu
-- HTTPX
-- Dirsearch
-- ParamSpider
-- Arjun
-- SecLists
-- OSINT
-- Vulnerability testing
+## Areas
 
-I have used these tools mainly for labs, training and authorized testing. Findings are only documented when I have supporting evidence.
+- Network security
+- Web application security
+- Reconnaissance
+- Vulnerability discovery
+- Wireless security
+- Packet analysis
+- Linux/Kali security tooling
+- Responsible vulnerability research
+
+Most work in this section consists of labs, training, personal testing and authorized security research.
+
+Credentials, private targets and sensitive information are not included.
